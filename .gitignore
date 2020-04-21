@@ -1,0 +1,4 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dataset
+.mini_sparkify_event_data.json
