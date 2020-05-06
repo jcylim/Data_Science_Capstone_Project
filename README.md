@@ -21,7 +21,7 @@ In this project, the objective is to make use of the big data and distributed co
 There is 1 notebook available here to showcase work related to this project. The notebook is exploratory in searching through and working with the data pertaining to the churn rate prediction of the subject in hand, and markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
-The main findings of the code can be found in the post available [here](https://medium.com/@jonathan.cy.lim/churn-rate-prediction-using-pyspark-2bc82c8e13b2).
+The main findings and research for this project can be found in the post available [here](https://medium.com/@jonathan.cy.lim/churn-rate-prediction-using-pyspark-2bc82c8e13b2).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Udacity for the data, which won't be accessible unless you are enrolled in this nanodegree program.  Otherwise, feel free to study and refer to this project as you would like! 
